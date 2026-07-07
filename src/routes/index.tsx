@@ -661,4 +661,3 @@ function TotalScribeLanding() {
     </div>
   );
 }
-}
